@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "AhmedFaisal11 <ahmedbinfaisal555@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
   "dependencies": {
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
